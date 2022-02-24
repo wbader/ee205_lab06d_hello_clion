@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o"
-  "CMakeFiles/ee205_lab06d_hello_clion.dir/main.cpp.o.d"
   "ee205_lab06d_hello_clion"
   "ee205_lab06d_hello_clion.pdb"
 )
